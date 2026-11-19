@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#8B1E24"               # Royal Crimson (for tags & slider)
+backgroundColor = "#060B19"            # Deep Midnight Navy (main page)
+secondaryBackgroundColor = "#0B132B"   # Royal Dark Blue (sidebar)
+textColor = "#F8F5E6"                  # Warm Ivory (general text)
+font = "serif"
